@@ -1,10 +1,11 @@
 Package: com.bxnto.switchcolor
 Name: SwitchColor
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common
-Version: 1.0.2.1
 Architecture: iphoneos-arm
 Description: Customize all elements of the switches! Requires libsparkcolourpicker and Cephie.
 Maintainer: Benji <benjiled@gmail.com>
 Author: Benji <benjiled@gmail.com>
 Section: Tweaks
 FileName: debs/switchcolor.deb
+Version: 1.0.2.1
+Installed-Size: 296
